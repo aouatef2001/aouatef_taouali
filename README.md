@@ -78,28 +78,4 @@ const aouatef = {
 
 ---
 
-## 📌 Projets
-
-| **Personal Portfolio Website** |
-|---|
-| Editorial minimal portfolio with a warm off-white palette, burnt orange accents, and scroll reveal animations |
-| `HTML5` `CSS3` `JavaScript` |
-| 🔗 [Live Demo](#) · 💻 [Source Code](#) |
-
-| **Gasoil Tracker** |
-|---|
-| Frontend project deployed on GitHub Pages |
-| `HTML5` `CSS3` `JavaScript` |
-| 🔗 [Live Demo](#) · 💻 [Source Code](#) |
-
-| **OClock App** |
-|---|
-| Frontend project deployed on GitHub Pages |
-| `HTML5` `CSS3` `JavaScript` |
-| 🔗 [Live Demo](#) · 💻 [Source Code](#) |
-
-| **Category & Article Manager** |
-|---|
-| Full stack content management app (currently pending server-based deployment) |
-| `PHP` `Laravel` `MySQL` |
-| 🔄 Deployment in progress |
+yment in progress |
