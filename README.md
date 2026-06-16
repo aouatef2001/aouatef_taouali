@@ -14,8 +14,11 @@
 </div>
 
 
+---
+
 ## 🚀 À propos de moi
 
+```js
 const aouatef = {
   formation : "Bachelor's @ EST Ibn Tofail",
   background: "Specialized Technician diploma in Digital Development",
@@ -24,7 +27,7 @@ const aouatef = {
   projet    : "Personal Portfolio Website",
   fun_fact  : "I love clean, minimal design",
 };
-
+```
 
 - 🔨 Actuellement : refining my personal portfolio (editorial minimal design, scroll reveal animations)
 - 📚 J'apprends : React, Node.js, Algorithms
