@@ -18,7 +18,7 @@
 
 ```js
 const aouatef = {
-  formation : "Bachelor's @ EST Ibn Tofail",
+  formation : "Bachelor's @ High School of Technology Ibn Tofail",
   background: "Specialized Technician diploma in Digital Development",
   stack     : ["HTML5", "CSS3", "JavaScript", "PHP", "Laravel", "MySQL", "Git"],
   learning  : ["React", "Node.js", "Algorithms"],
