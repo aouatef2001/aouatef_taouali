@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=180&section=header&text=Aouatef%20Taouali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18)
 
 <div align="center">
 
